@@ -31,7 +31,12 @@ img {
     background-color: #F3FDE8;
 }
 
+.Tuan {
+    background-color: aliceblue;
+}
+
 .Phong  {
+    color:beige;
     background-image: url(https://scontent.fsgn16-1.fna.fbcdn.net/v/t39.30808-6/508244864_4189963291290571_4063114416958369549_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHWPOpTGhPO-Xut7yOapJ4eNntQTW8WvdE2e1BNbxa90cchJH7gkdFPJr-Zccu-EN-p6DM7P7Sq31PxBCwqA2j7&_nc_ohc=OgUi5fe2Z2MQ7kNvwGTGyqb&_nc_oc=Adr33OfmCurrHWa54Zec_Qsz3VbRKNjO_W3vWrH3dJ8MfNp4CjL9tYYhNLjmxVBx2JAr-L_JTRnrxuoRHiJyD1RS&_nc_zt=23&_nc_ht=scontent.fsgn16-1.fna&_nc_gid=_MKT_RFrufoByc2y49raoA&_nc_ss=7b2a8&oh=00_AQJN9DMdoT1fFsbRuIGrqBf2RhuemmrblOkMbxYoc064fg&oe=6AB70948) ;
     background-repeat: repeat;
     background-size: contain;      
