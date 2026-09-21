@@ -49,10 +49,11 @@ table, th, td {
 }
 
 nav {
-    background-color:#d4f2f4 ;
+    color: #0b0848;
+    background-color: #d4f2f4 ;
 }
 
 footer{
-    color: azure;
-    background-color: #0b0848;
+    color: #0b0848;
+    background-color: #d4f2f4;
 }
